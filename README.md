@@ -70,8 +70,8 @@ Streamlit Dashboard (Visualization)
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/AI-Knowledge-Engine.git
-cd AI-Knowledge-Engine
+git clone https://github.com/gkarthik10/AI-Ticket-Resolution.git
+cd AI-Ticket-Resolution
 ```
 
 ### 2. Install Dependencies
